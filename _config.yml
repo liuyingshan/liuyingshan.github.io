@@ -1,0 +1,13 @@
+name: "Blog of Yingshan Liu"
+description: ""
+
+url: "http://liuyingshan.github.io"
+
+timezone: Asia/Shanghai
+
+paginate: 20
+
+pygments: true
+
+markdown: rdiscount
+permalink: pretty
